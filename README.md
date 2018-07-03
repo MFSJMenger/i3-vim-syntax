@@ -2,6 +2,11 @@ This is a [Vim](http://vim.org) syntax file for [i3](http://i3wm.org/) config fi
 
 ![Screenshot](https://raw.githubusercontent.com/PotatoesMaster/i3-vim-syntax/junk/screenshot.png)
 
+## Modifications
+
+also accept files that are named like i3/i3.* 
+
+
 ## Using it
 
 You can install it using a Vim plugin manager ([Vundle], [Pathogen], …) or just by putting [i3.vim][i3vim] in your `~/.vim/syntax` directory.
